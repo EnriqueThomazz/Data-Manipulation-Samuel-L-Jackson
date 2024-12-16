@@ -18,4 +18,8 @@ The data is divided into three layers: Bronze, Silver and Gold. Bronze correspon
 
 # Data Visualization
 
-Power BI was the tool chosen to visualize the processed data and create a single [dashboard](./DataViz%20PowerBI/samuel_dashboard_complete.pdf).
+Power BI was the tool chosen to visualize the processed data and create a single [dashboard](./DataViz%20PowerBI/samuel_dashboard_complete.pdf). The pages from the dashboard can be seen bellow:
+
+![page01](./DataViz%20PowerBI/dashboard_01.png)
+![page02](./DataViz%20PowerBI/dashboard_02.png)
+![page03](./DataViz%20PowerBI/dashboard_03.png)
